@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lucasBruma.github.io/cursoDom",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
